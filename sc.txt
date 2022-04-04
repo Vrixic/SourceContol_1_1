@@ -1,0 +1,15 @@
+FreeCodeCamp: https://github.com/freeCodeCamp/freeCodeCamp
+	- I find this repo interesting because you can learn how to code for free. There are alot of curriculums you can complete and get a certificate from.
+
+Flutter: https://github.com/flutter
+	- It's an UI toolkit that anyone can use to build beautiful applications for web, mobile, and desktop. It's also funded by google.
+	
+TensorFlow: https://github.com/tensorflow/tensorflow
+	- It's interesting to see that there are open source machine learning libraries/repositories that you can compile into you own projects and use.
+	
+React Native: https://github.com/facebook/react-native
+	- It's very interesting to see open source repositories being used by giant companies like facebook. This library allows full access to native platforms and use native UI controls.
+	
+Blender: https://github.com/blender/blender
+	- Blender has been used by some successful projects in many industries. It's interesting to see that its open-source.
+	
